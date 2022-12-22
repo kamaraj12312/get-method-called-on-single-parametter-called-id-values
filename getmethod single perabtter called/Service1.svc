@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="getmethod_single_perabtter_called.Service1" CodeBehind="Service1.svc.cs" %>
